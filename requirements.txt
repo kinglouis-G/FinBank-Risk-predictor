@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+shap
+faker
+matplotlib
+seaborn
+ipython
+jupyter
+
+# Optional (for model persistence / utils)
+joblib
+
+# For GPU XGBoost support, install 'xgboost' with GPU build separately
